@@ -206,6 +206,38 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 
 
+#######################SOOKA TV##################
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/9ccc772601b741d4a20c94c132a03282/version/0/width/315/height/177/quality/80", Tayo+
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00640-lydnetwork-tayoplus-dash-sooka%2Ffc5c0f91-0841-4617-ae0a-70b09c398b38%2Findex.mpd&streamId=amg00640-lydnetwork-tayoplus-dash-sooka&sessionId=fc5c0f91-0841-4617-ae0a-70b09c398b38
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/ccdd07c58dcf4ae6be79b41e8a35c111/version/0", TesteMade
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00047-tastemade-tastemadeintlaus-dash-sooka%2F8fb9e195-d8df-45cf-9d4e-f580ac309819%2Findex.mpd&streamId=amg00047-tastemade-tastemadeintlaus-dash-sooka&sessionId=8fb9e195-d8df-45cf-9d4e-f580ac309819
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/bbeffd348eab475f8e6758b84534e6e3/version/0",GustoTV
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg01077-gustoworldwidem-gustotv-dash-sooka%2F0da8c749-6a45-4a47-bbd0-db1b3198aea7%2Findex.mpd&streamId=amg01077-gustoworldwidem-gustotv-dash-sooka&sessionId=0da8c749-6a45-4a47-bbd0-db1b3198aea7
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/718984734b9a40688ab3fde72f27e7ee/version/0",InfamousTV
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg01324-infamousmedia-infamoustv-dash-sooka%2F812787d9-eb16-4659-984c-f00e9e78fab1%2Findex.mpd&streamId=amg01324-infamousmedia-infamoustv-dash-sooka&sessionId=812787d9-eb16-4659-984c-f00e9e78fab1
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/574e45f95d5d4a288aad6e711ace25b6/version/0", K.Popcorn
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg01944-ktalpha-kpopcorn-dash-sooka%2Fe015fac7-f194-4a8b-ab6d-29611e5d95f5%2Findex.mpd&streamId=amg01944-ktalpha-kpopcorn-dash-sooka&sessionId=e015fac7-f194-4a8b-ab6d-29611e5d95f5
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/e171e4404e5344c8864a8f1079301ec3/version/0", EDGE Sport
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00545-edgenetworks-edgesport-dash-sooka%2Fff5558aa-63a2-4d02-a420-8b0dd3daaf16%2Findex.mpd&streamId=amg00545-edgenetworks-edgesport-dash-sooka&sessionId=ff5558aa-63a2-4d02-a420-8b0dd3daaf16
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/c8e03bd738974070b523a92f26fd4ccb/version/0", CarbonTV
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg01570-carbontv-carbontv-dash-sooka%2Ff6317a4f-c646-47f9-8653-db9630c65bea%2Findex.mpd&streamId=amg01570-carbontv-carbontv-dash-sooka&sessionId=f6317a4f-c646-47f9-8653-db9630c65bea
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0", Bollywood Prime
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00877-b4unetworkeurop-bollywoodprime-dash-sooka%2F7c63a108-0f2c-490b-8ba9-6a3db003605f%2Findex.mpd&streamId=amg00877-b4unetworkeurop-bollywoodprime-dash-sooka&sessionId=7c63a108-0f2c-490b-8ba9-6a3db003605f
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/6645e2e786014bc482c4835a8f97e1bd/version/0", Yrf Music
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00223-unisysinfo-yrf-music-dash-sooka%2Fc5b25b3f-d0eb-4bb4-a763-aed528a06db0%2Findex.mpd&streamId=amg00223-unisysinfo-yrf-music-dash-sooka&sessionId=c5b25b3f-d0eb-4bb4-a763-aed528a06db0
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="SOOKA TV" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/57a888c001024bbe8bcbe4f794b36cdf/version/0", ESTV Sport
+https://cdn-apse1-prod.tsv2.amagi.tv/beacon?rp=https%3A%2F%2Fcdn-apse1-prod.tsv2.amagi.tv%2Flinear%2Famg00303-televisionkorea-estv-dash-sooka%2Fb8fecf6f-c6bf-44e4-9d55-bf5cf71b75fd%2Findex.mpd&streamId=amg00303-televisionkorea-estv-dash-sooka&sessionId=b8fecf6f-c6bf-44e4-9d55-bf5cf71b75fd
+
 
 
 
