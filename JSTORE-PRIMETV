@@ -195,6 +195,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",824 ASTRO CRICKET
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
+###################################BACKUP#########################################
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola (Backup Channel 1)
+http://31.42.187.37:25461/watchpad13155/1234/4648
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" ch-number="803" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola_v1.png" group-title="SPORTS",Astro Arena Bola (Backup Channel 2)
+http://31.42.187.37:25461/watchpad13155/1234/11483
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" ch-number="804" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArenaBola2_v1.png" group-title="SPORTS",Astro Arena Bola 2 (Backup Channel 1)
+http://31.42.187.37:25461/watchpad13155/1234/332 
+
 
 
 
