@@ -1,12 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"                                        
-
-#EXTM3U billed-msg="OFFICIAL SHOPEE STORE JSTOREMY.OS & PRIMETV.OS"
-
-
-vod_library="https://mantop.worst.workers.dev/index.html"
-
-
-  
+#EXTM3U x-tvg-url="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" billed-msg="OFFICIAL SHOPEE STORE JSTOREMY.OS & PRIMETV.OS" 
+vod_library="https://mantop.worst.workers.dev/index.html"  
 
   
 
