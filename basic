@@ -34,7 +34,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"4dQox/HKgjOabPodB1dCjg", "kid":"dIHT43OMRnaPE44gj+6Qdg" } ], "type":"temporary" }
@@ -42,7 +42,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
@@ -50,7 +50,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
 https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -59,7 +59,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -68,7 +68,7 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlkyRTVZalJqTVdRdE5qQXlPQzAwWTJSaExUbGpaV0V0TmpSaU9EVXdOekE1T1dKaSIsIndtb3BpZCI6MzIsImV4cCI6MTcyODAzMjU1MiwiaWF0IjoxNzI3NDI4NTUyfQ.GgJYezgwFzsgJuMu36qtMswU-IfuS4UgriAHAof4n3E"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XWmxZMlE0TWpNdFpqRXpOaTAwWkRNeUxXSmxaREF0T0RWa05qWXdZMkZoTkdNMyIsIndtb3BpZCI6MzIsImV4cCI6MTcyODA5ODQzMSwiaWF0IjoxNzI3NDk0NDMxfQ.dAMZ8fo1-m5GFZsdJs5KTvrYpjO-PDkQ7kYcXi6SoQs"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
