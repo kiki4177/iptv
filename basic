@@ -1073,7 +1073,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="MALAYSIA" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_DMAX.png",716 DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1737,7 +1737,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" group-title="DOCUMENTARY" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//LEARNING//LR_DMAX.png",716 DMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
