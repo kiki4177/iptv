@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://hangit69.blogspot.com/p/aotg-movie.html,https://hangit69.blogspot.com/p/movie-request-vod.html,https://hangit69.blogspot.com/p/perfect-vod.html" billed-msg="1 ID 1 DEVICE | SUBSCRIPTION : PREMIUM"
+#EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml" refresh="1440" vod_library="https://mantop.worst.workers.dev/index.html , https://mantop.worst.workers.dev/dramabox.html,https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/vod,https://vod.pondan.workers.dev/dewanonton.json,https://aqfadtv.xyz/ePsBfM4g3bHk5XRx/index.php,https://fahmikacak.pages.dev/HBOGO%20Asia" billed-msg="1 ID 1 DEVICE | SUBSCRIPTION : PREMIUM"
 ##########################################################################################################################
 
   
