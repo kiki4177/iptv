@@ -227,116 +227,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=204b138b4cd494236687a016cf20a5a1:5f06d6e71333355eb4b891b4d5f50975
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="128" ch-number="128" tvg-name="Dunia Sinema" HD group-title="UNIFI" tvg-logo="https://i.ibb.co/r42DCKG/20190716074123890vav.png",128 Unifi Dunia Sinema
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="118" ch-number="118" tvg-name="Inspirasi" group-title="UNIFI" tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",118 Unifi Inspirasi
-https://tinyurl.com/yc9abbrw
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615" group-title="UNIFI",120 Unifi Degup
-https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-id="CBeebies" ch-number="553" tvg-name="CBeebies" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",553 Unifi CBeebies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
-
-#EXTINF:-1 tvg-id="121.unifi" tvg-name="SIAR" group-title="UNIFI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129",121 Unifi Siar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live31.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="141.unifi" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/201907/20190716/201907160659062937ij.png" group-title="UNIFI",141 Unifi Pesona
-https://web.hypp.tv:443/PLTV/88888888/224/3221227615/3221227615.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO8SgkPnwzd4mMtcd%2Bh2%2B016nYGyKi6Pv7FEVqrmZ8NtvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080145%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080145%2Curn:Huawei:liveTV:iptv8997%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFKTULlhpTExMNWl1az7wi420KFQTb6_Vup2ZN3ljBIPbtdJaSuQlz7HkwkqhmUWx1IVpM11iLkjCexUUJwa87wZXBTthp3p1ZhnNKOeMMk6a6W7jwc3L6tFrjGrxx2qMz86gsqmlT0gUnIvoYOzCQA8eXsfo5wnBZlZjUpZ8KaSQRZaTcUobSNdPQy6QVqG_QUS7C-4LqBZ8QnIDcwWHFfSohof3P24f7cfmDRFIhEH0AAAA&tenantId=6001
-
-#EXTINF:-1 tvg-id="ver6" tvg-name="ver6" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="UNIFI",Cinema World HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
-
-#EXTINF:-1 tvg-id="502" ch-number="502" tvg-name="Love Nature HD" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",502 Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="113" ch-number="113" tvg-name="Salam HD" group-title="UNIFI" tvg-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", 113 Unifi Salam HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="233.unifi" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/201907160641140646da.png" group-title="UNIFI",233 Now Jelli
-https://web.hypp.tv:443/PLTV/88888888/224/3221227559/3221227559.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixF6lBrrzvU1Q2%2B8sLqGChu40fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv846haXUJR5R32mBb1BUUaHHv17QezgK4lI66BNld%2BWvWSl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185240%3AUTC%2C1004320541%2C14.1.254.135%2C20230704185240%2Curn:Huawei:liveTV:iptv28981%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0XMQQvCIBiA4X-zo6jT4Q6eiqCLBKuu8amfIrhJugb9-1gE3d_nXSs4PB_1OAjFgCrrLAhJ-Sg9DxCkZEpwaoeu4dMU3XcOck5LNMXv7D4dHowSSjhnpJfddd-dMkTNv6V5zRbrn01Yt-RQ-xbIBo1AjBUjrKks5JLhfav5l3wAYjwnx5kAAAA&tenantId=6003
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#EXTINF:-1 tvg-id="239.unifi" tvg-name="SETI" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/201907/20190708/20190708073838956juy.png" group-title="UNIFI", 239 Unifi SETI
-https://web.hypp.tv:443/PLTV/88888888/224/3221227529/3221227529.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=qD%2FGhg01YduJJVCux%2B5ixM7skkMcbNa9ZSweWCAIO9g0fF7WRczKep1ijxO3BzygK7IGCYvN70sbDo5pVRv84yjyfs9%2FU5xlEkKXfSpcw0b%2FVw%2BAVLY2IaG%2BJfr8AXAzl1Gu6dfQIjZRtiMM1k%2B5qA%3D%3D%3A20230704185934%3AUTC%2C1004320541%2C14.1.254.132%2C20230704185934%2Curn:Huawei:liveTV:iptv8417%2C1004320541%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C3692854%2C0%2C2611154%2C2b9f924f-2e21-e330-87b4-2daffcd7b85b%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAA0WMsQrCMBQA_yZjSNJU0iGTIrgUoeoqry8vIZA2mNSCf68VwemWu1sKIJ0O1nzQoTedpFajU8Z7Jx3uWmxgBC1YpUefbcMQUopz6LPbstuwv0vBBVdKcqnZZdsdEwSrvmb_nEYq_2ygskYk66rnK1QOIRQKsMQ883OC17Wkn_IGgSNJiJkAAAA&tenantId=6003
-
-#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="Paramount Network" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png",408 Paramount Network
-https://jmp2.uk/sam-USAJ26000054W.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a1206b44822c89320e70916cf57b0c:e040ca2aa426df789ba384ba561891b4
-#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" tvg-name="DidikTV KPM" group-title="UNIFI" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420324:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",107 Unifi Didik TV
-https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="148" ch-number="148" tvg-name="8TV" group-title="UNIFI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",108 Unifi 8TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="149" ch-number="149" tvg-name="TV9" group-title="UNIFI" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420326:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",109 Unifi TV9
-https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
-
-#EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="UNIFI",701 AXN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ONE" ch-number="461" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="UNIFI",461 ONE HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
-
-#EXTINF:-1 tvg-id="701" group-title="UNIFI" tvg-name="unifi Sports 1" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png",701 Unifi Sports 1 hd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks" ch-number=" " tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="UNIFI",550 Unifi Dreamworks HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
-
-
-
-
-
 ###############################################################MALAYSIA######################################################################################################################
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MALAYSIA" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 (Server 1)
@@ -377,24 +267,9 @@ https://janton.whacat.me/tonton/TV3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_ott.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="OKEY.my" tvg-name="TV Okey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MALAYSIA", 146 TV Okey 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
  
 #EXTINF:-1 tvg-id="SUKE" tvg-name="Suketv" group-title="MALAYSIA" group-logo="https://i.ibb.co/xs9TRSJ/Akutv.jpg" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/utgwdm.png", Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1729834361-16ad8e743f9245408fa0bc2a308362c1-0-0bfd6cc307b7b473454e9765f7ea2408&token=1729834361-16ad8e743f9245408fa0bc2a308362c1-0-0bfd6cc307b7b473454e9765f7ea2408
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={12d9a54e458d31975632be17a8dac010:aa6173e8795c9b0b2733df838934817f}
-#EXTINF:-1 tvg-id="100.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/573_144.png" group-title="MALAYSIA",100 Home Of Kids
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5178/default_ott.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-
 
 
 
@@ -427,14 +302,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9987/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vb22tRR+w8CUUCJpWTeA1Q", "kid":"DwhdB2RNQTWRhi/UeqTGJg" } ], "type":"temporary" }
 https://d277c08tzca9og.cloudfront.net/CH4/masterCH4.mpd
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={1a9831f0be3ff551ff0b32a64cbd1f10:d87e503fafec0e8400b489bddb45044c}
-#EXTINF:-1 tvg-id="111.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PHC_2024.png" group-title="MALAYSIA",111 High Council
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5169/default_ott.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 
 
 
@@ -511,24 +378,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="123" ch-number="123" tvg-name="Awesome TV" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",123 Awesome TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
 #https://awesometv.my/livetv/watch/awesome-tv/28
-  
-#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" radio="true" group-title="MALAYSIA",Selangor TV
-https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
-
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -537,15 +389,6 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 #EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-id="Astro Oasis HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Astro_Oasis.png/revision/latest?cb=20180622071546" group-title="MALAYSIA",106 Astro Oasis 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
-
-
-
-#EXTINF:-1 tvg-id="122.unifi" ch-number="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",122 TVS Sarawak
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
-
 
 
 
@@ -656,13 +499,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #https://awesometv.my/livetv/watch/awesome-tv/28
   
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="okey" ch-number="146" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://perfecttv.net/logo/okey.png", 108 Okey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="MALAYSIA" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Okey.png?5423" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",146 TV OKEY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
 
-
+=
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -721,208 +564,172 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 
-
-
-
-#EXTINF:-1 ch-number="221" tvg-name="StarVijay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png" group-logo="https://iili.io/H7B4QYF.png" group-title="INDIAN" tvg-id="StarVijay",221 Star Vijay HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
-
-#EXTINF:-1 ch-number="212" tvg-name="SunMusic" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png" group-title="INDIAN" tvg-id="SunMusic",212 Sun Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2gpwFI4SbrQMzgJmV1OJbQ", "kid":"vqypRh98oNWLpSn+0ue2EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_primary.mpd
-  
-#EXTINF:-1 ch-number=" " tvg-name="SUN TV HD" tvg-logo="https://www.nicepng.com/png/detail/2-22701_sun-tv-sun-tv-logo-png.png" group-title="INDIAN" tvg-id="211" ch-number=" " tvg-name="SUN TV HD",211 Sun TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
-  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="INDIAN" tvg-id="251.astro" tvg-logo="https://perfecttv.net/logo/vinmeen.png" , 186 Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" tvg-name="Astro Vellithirai" group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Astro_Vellithirai_%282024%29.png",203 Astro Vellithirai 
+#KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
-  
-#EXTINF:-1 ch-number="223" tvg-name="Zee Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" group-title="INDIAN" tvg-id="ZeeTamilHD",223 Zee Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Znoz9NW7NYfy1SCYhoOerA", "kid":"DU4+fawtWLk7+BmnL+jVEA" } ], "type":"temporary" }
+https://linearjitp.perfecttv.net/vinmeen.mpd
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="251.astro" tvg-logo="https://perfecttv.net/logo/zeecinema.png" , 187 Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="201" ch-number=" " tvg-name="Astro Vaanavil HD" group-logo="https://previews.123rf.com/images/fokaspokas/fokaspokas2005/fokaspokas200501198/148447570-folder-of-documents-portfolio-with-files-business-icon-orange-neon-style-on-black-background-light-i.jpg" group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Astro_Vaanavil_%282024%29_01.png", 201 Astro Vaanavil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="223.astro" tvg-logo="https://perfecttv.net/logo/zeetamil.png" ",188 Zee Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CE52Vhu6nU866VOs3Tez7Q", "kid":"kYrevhCphI1WfcbLWtzlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="241" ch-number="BoxOfficeThangathirai" ch-number=" " tvg-name="ABO Movies Thangathirai HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png" group-title="INDIAN",241 Box Office Thangathirai
-##https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btm0l2qFSiic5iyslXpV1Q", "kid":"rTyyQs3jtofiOYzSHrm9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" ch-number=" " tvg-name="Colors Hindi HD"tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png" group-title="INDIAN",116 Colors Hindi
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="116.astro" tvg-logo="https://perfecttv.net/logo/colorhindi.png" ,189 Colors Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"URkFvxkUdLQStOwRdRWnnA", "kid":"5GNU+znCjllWvJRqwqBQEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="222" ch-number=" " tvg-name="Colors Tamil HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/298_144.png" group-title="INDIAN", 222 Colors Tamil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="211" ch-number=" " tvg-name="SUN TV HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"699Wuko1YsyCBTopUpdUMg", "kid":"gwdv8vaNF2S1WcQyq0nKEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="215" ch-number=" " tvg-name="Sun News" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",215  Sun News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rAh5IEchjKKgHyu9EtkFAQ", "kid":"ChccwbuQ94ggzyXMVfDuEA" } ], "type":"temporary" }
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="INDIAN" tvg-id="222.astro" tvg-logo="https://perfecttv.net/logo/colortamil.png" ,190 Colors Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
 
-#EXTINF:-1 tvg-id="217" ch-number=" " tvg-name="Sun Life" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/476_144.png",217 Sun Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cmMEcIxCn2E+wtxTYZ1vdg", "kid":"4+G+lObBk/oheHzoQ122EA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="216.astro" tvg-logo="https://perfecttv.net/logo/ktv.png",191 KTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="216" ch-number=" " tvg-name="KTV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/477_144.png",216 Ktv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c2SM66N1FkWSbUVCHIXZJw", "kid":"jnhjqOdwsNcuvkpoQ3tkEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="214" ch-number="214" ch-number=" " tvg-name="Adithya" group-title="INDIAN" tvg-logo="https://user-images.githubusercontent.com/85995579/130947065-c352cfdd-f4eb-47e3-aec3-806e76cec321.png",214 Adithya 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XrN2KxpGMaC5jiXiPO8Bkw", "kid":"hZ9bIFTEBz6PDaRj0gi5EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
-  
-#EXTINF:-1 tvg-id="StarVijay" ch-number=" " tvg-name="Star Vijay HD" ch-number="221" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0ByBBQ36swnGvn5g0Dwtgg", "kid":"rzVgin1LE9EVjC721sGgEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5088/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Zee Cinema" ch-number="251" tvg-name="Zee Cinema" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png" group-title="INDIAN",251 Zee Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPOS5aECG+aPwyvNuew61A", "kid":"25ZIOQB2LiM6p4MEV6DTEA" } ], "type":"temporary" }
+#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="241" ch-number="241" tvg-id="" tvg-logo="https://perfecttv.net/logo/boxoffice.png" ,192 Box Office Thangathirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=918adebe10a9848d567dc6cb5adce510:084e76561bba9d4f3ae953acdd37b3ed
+https://linearjitp.perfecttv.net/Abo.mpd
+
+#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="201.astro" tvg-logo="https://perfecttv.net/logo/vaanavil.png" ,193 Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="INDIAN" tvg-id="203.astro" tvg-logo="https://perfecttv.net/logo/vellithirai.png" ,194 Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
 
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="INDIAN" group-logo="" tvg-logo="https://perfecttv.net/logo/suntv.png",195 Sun TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default_ott.mpd
 
+#EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="INDIAN" group-logo="" tvg-logo="https://perfecttv.net/logo/sunmusic.png",196 Sun Music
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
+#EXTINF:-1 tvg-id="SunLife" ch-number="217" group-title="INDIAN" group-logo="" tvg-logo="https://perfecttv.net/logo/sunlife.png",197 Sun Life
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5089/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Adithya" ch-number="214" group-title="INDIAN" group-logo="https://is.gd/dvboM8.png" tvg-logo="https://perfecttv.net/logo/aditya.png",198 Adithya
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+http://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+#EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="INDIAN" group-logo="" tvg-logo="https://perfecttv.net/logo/starvijay.png",199 Star Vijay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default_ott.mpd
 
 
 
 ################################################################CHINESE##########################################################################################
 
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" group-title="CHINESE" tvg-logo="https://perfecttv.net/logo/aec.png" tvg-id="AstroAEC",124 AEC
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=655b6df8085d4fe6b3f71c0f4288f98a:5f0d4251e05e0a3a661218169ee84181
+http://83.142.30.171:8080/linear.mpd?channel=aec&username=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2OTU2MzYsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.HHmoIuwPI_zgQkaF6inanaTUC9uYSLthDbEHF6D8XHY
 
 
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="333.astro" tvg-logo="https://perfecttv.net/logo/huaheedai.png" group-logo="" group-title ="",125 Hua Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="300.astro" tvg-logo="https://perfecttv.net/logo/iqiyi.png" ,126 iQIYI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest.type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36978c8e295e42ccbcc45d719e32e7f3:22c4936cc4dcab2daf96a36a5c12257e
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="308.astro" tvg-logo="https://perfecttv.net/logo/qj.png" ,127 QJ (A)
+http://83.142.30.171:8080/linear.mpd?channel=qj&username=perfecttv|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA2OTU2MzYsImlzcyI6IlZSIiwiZXhwIjoxNzQwNzgxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNGYyYzU2YWEtYzQzNS00ODFmLWEwZTUtZGEwMTE4MjU0NWJiIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.HHmoIuwPI_zgQkaF6inanaTUC9uYSLthDbEHF6D8XHY
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="CHINESE" group-logo="" tvg-logo="https://perfecttv.net/logo/tvbjade.png",128 TVB Jade
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI HD" group-title="CHINESE" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//CHINESE//CH_Iqiyi.png",300 IQIYI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS Asia HD" group-title="CHINESE" group-logo="" tvg-logo="https://perfecttv.net/logo/tvbs.png",129 TVBS Asia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He HD" group-title="CHINESE" group-logo="" tvg-logo="https://perfecttv.net/logo/tvbxinghe.png",130 TVB Xing He
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="iQIYI" ch-number=" " tvg-name="iQIYI" ch-number="300" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="CHINESE",300 iQIYI 
+#EXTINF:-1 group-logo="" group-title="CHINESE" tvg-id="" ch-number="317" tvg-logo="https://perfecttv.net/logo/tvbentertainmentnews.png",131 TVB Entertainment News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" tvg-name="Astro Hua Hee Dai HD" ch-number="333" group-title="CHINESE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",333 Astro Hua Hee Dai
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9anK3qI3KlLCuR+cJh/gpA","kid":"1iZZjCq0UlN1Cdy4qG25EA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="316" ch-number="CTIAsia" ch-number=" " tvg-name="CTI Asia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png" group-title="CHINESE",316 CTI Asia 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kzric7Fmuqj7ID7vGnrb3w", "kid":"BxRIaQoOybJ+ssGn1eAwEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="305" tvg-name="TVB Classic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png" group-title="CHINESE",305 TVB Classic  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
-  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"y54aEi7RxkRffT/SFiNY8Q","kid":"/hIZAZqfNs3vNHCI5ZLKEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="310" ch-number=" " tvg-name="TVB Jade" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="CHINESE",310 TVB Jade
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_primary.mpd
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB Classic HD" group-title="CHINESE" group-logo="" tvg-logo="https://perfecttv.net/logo/tvbclassic.png",132 TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"r3EKBv1nl1uZ20pHp1e4Sw","kid":"+mKcNkDOUzx1VQn2f3XmEA"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" tvg-name="TVB Entertainment News HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title="CHINESE",317 TVB Entertainment News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" group-title="CHINESE"tvg-logo="https://aqfadtv.xyz/logos/TVBXingHe.png",319 TVB Xing He
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/401
-https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_primary.mpd
+#EXTINF:-1 tvg-id="" ch-number="235" tvg-name="CCTV4 HD" tvg-logo="https://perfecttv.net/logo/cctv4.png" group-title="CHINESE",133 CCTV4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NG8PYMvXWR4a5yyliRV7sQ", "kid":"52qJoeI/j3uCj029wtCaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" tvg-name="TVBS Asia HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="CHINESE",320 TVBS Asia 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_primary.mpd
+#EXTINF:-1 tvg-id="" ch-number="235" tvg-name="CCTV4 HD" tvg-logo="https://perfecttv.net/logo/ctiasia.png" group-title="CHINESE",134 Cti Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"H9+Erb4F2Bg9FAuaLhFqlg", "kid":"NohqOcENsdQLR1qoz39rEA" } ], "type":"temporary" }
-##EXTINF:-1 tvg-id="323" ch-number="TVBSNews" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/414_144.png" group-title="CHINESE",323 TVBS News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5008/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="CCTV4" ch-number="335" tvg-name="CCTV4 HD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="CHINESE",335 CCTV4 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hCVpDEhE+7AbXq5wa8L3xg","kid":"2xozj3HUAYb1mXywhbs/EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_primary.mpd
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="CHINESE" group-logo="https://perfecttv.net/logo/phoenixchinese.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png",135 Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" tvg-name="Phoenix Chinese Channel HD" group-title="CHINESE" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 Phoenix Chinese Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/Wvhzqn6I8mPIPGyq8ridg", "kid":"UXwwjvZBmxdn6a5xDIl3EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_primary.mpd
-
-#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326" tvg-name="Phoenix Info News HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i563q3GWpCXZq2GKXJ+Z2Q", "kid":"lylVipv/jZR3S/ovAZoTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_primary.mpd
-
-#EXTINF:-1 tvg-id="321" ch-number="321" tvg-name="Celestial Classic" group-title="CHINESE" group-logo="https://jepstoreott.jepstore057.workers.dev/0:/jepstore/jepstorelogobaru/MOVIELOGO.png" tvg-logo="https://i.ibb.co/kyKTZLB/ccm-modified.png",321 Celestial Classic Movies (MY)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"P1k1XhXu0bshnqFofVXPuw", "kid":"pkLdS/PqeC4ZICre+2BLEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="CHINESE",309 Celestial Movies 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 
 ###########################################################################KOREAN##################################################################################
@@ -937,41 +744,39 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="tvN" ch-number="395" tvg-name="tvN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png" group-title="KOREAN",395 tvN HD
+#EXTINF:-1 group-title="KOREAN" tvg-id="393.astro" tvg-logo="https://perfecttv.net/logo/one.png",200 One 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="ONE" ch-number="393" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="KOREAN",393 ONE HD
+#EXTINF:-1 tvg-id="tvN" ch-number="211" tvg-name="tvN HD" tvg-logo="https://perfecttv.net/logo/tvn.png" group-title="KOREAN",201 tvN HD
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://i.ibb.co/nk1ts88/9984-B0-C3-CD7-F-4-C62-ADAB-FCB1-FEF464-D1.jpg" group-title="KOREAN" tvg-id="416.astro" tvg-logo="https://perfecttv.net/logo/tvnmovies.png",202 tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9
-#EXTINF:-1 tvg-id="GEM.sg" ch-number=" " tvg-name="GEM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="KOREAN",GEM
-https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="KOREAN" tvg-id="396.astro" tvg-logo="https://perfecttv.net/logo/kplus.png", 203 K+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6txiarlZJV96uIHAPTBv4g", "kid":"aSlQ05hpySr5qd3qRTwNEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="392" ch-number=" " tvg-name="KBS World HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="KOREAN",KBS World
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-logo="" group-title="KOREAN" tvg-id="392.astro" tvg-logo="https://perfecttv.net/logo/kbsworld.png" ,204 KBS World
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 
 
 #########################################################MOVIES#######################################################################################################
-
-
 
 
 
@@ -985,11 +790,33 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 
 
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" tvg-name="ps HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="MOVIES" group-logo="" tvg-logo="https://perfecttv.net/logo/hitsmovies.png",163 HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="MOVIES" tvg-id="414.astro" tvg-logo="https://perfecttv.net/logo/hbofamily.png" ,144 HBO Family  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits" group-title="MOVIES" group-logo="" tvg-logo="https://perfecttv.net/logo/hbohits.png",142 HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="MOVIES" tvg-id="251.astro" tvg-logo="https://perfecttv.net/logo/zeecinema.png" , 187 Zee Cinema
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1007,20 +834,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
-
-#EXTINF:-1 tvg-id="HBOFamily" ch-number="414" tvg-name="HBO Family +1 HD" ch-number="414" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",414 HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="HBOHits" ch-number="415" tvg-name="HBO Hits +1 HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",415 HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1040,17 +853,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 
 
-
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
 #EXTINF:-1 tvg-id="413.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Showcase.png" group-title="MOVIES",Showcase
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
-
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
@@ -1058,157 +865,103 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
+ 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-#EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="MOVIES",Zee Cinema HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5106/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="AXN" ch-number="701" tvg-name="AXN HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="MOVIES",701 AXN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
-
-#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" tvg-name="Warner TV HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",712 Warner TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+DJvZox77jCeUwK1E+W99w", "kid":"YJPhJjmyTNZR7ms8E0RtEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 
   
 #######################################################################DOCUMENTARY######################################################################################
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="708"  group-title="DOCUMENTARY" group-logo="https://iili.io/H7B4QYF.png" ch-number="708",708 Food Network 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AnimalPlanet" ch-number=" " tvg-name="Animal Planet HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" ch-number="556",556 Animal Planet 
+#EXTINF:-1 tvg-id="LoveNature" group-title="DOCUMENTARY" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://aqfadtv.xyz/logos/Love Nature.png" ch-number="550",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5096
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="DiscoveryChannel" ch-number=" " tvg-name="Discovery Channel HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ch-number="552",552 Discovery Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number=" " tvg-name="Discovery Asia HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/136_144.png" ch-number="553",553 Discovery Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="History" ch-number=" " tvg-name="History HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" ch-number="555",555 History 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="CGTN.cn" ch-number=" " tvg-name="CGTN" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" ch-number="714",714 Crime & Investigation 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="BBCEarth" ch-number=" " tvg-name="BBC Earth" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" ch-number="554",554 BBC Earth 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="BBCLifestyle" ch-number=" " tvg-name="BBC Lifestyle" ch-number="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS4fiUEpxRfciEW6ruvsig","kid":"9CkpLcdE8oQ1UwhWFXesEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",550 Love Nature
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="LoveNature" ch-number=" " tvg-name="Love Nature 4K" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",551 Love Nature 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker" ch-number=" " tvg-name="Global Trekker" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png" ch-number="551",551 Global Trekker
+#EXTINF:-1 tvg-id="GlobalTrekker" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ch-number="551",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5094
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="DMAX" ch-number=" " tvg-name="DMAX HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" ch-number="716",716 Dmax
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://aqfadtv.xyz/logos/Discovery.png" ch-number="552",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2510
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="HGTV" ch-number=" " tvg-name="HGTV" ch-number="715" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ch-number="715",715 HGTV
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://aqfadtv.xyz/logos/DiscoveryAsia.png" ch-number="553",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_primary.mpd
-  
-#EXTINF:-1 tvg-id="TLC" ch-number=" " tvg-name="TLC HD" group-title="DOCUMENTARY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" ch-number="707",707 TLC
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="BBCEarth" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://aqfadtv.xyz/logos/BBCEarth.png" ch-number="554",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5051
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/604/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="History" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://aqfadtv.xyz/logos/History.png" ch-number="555",History
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#EXTINF:-1 tvg-id="AnimalPlanet" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://api.discovery.com/v1/images/5bc91c366b66d1494068339e?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="556",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2710
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" group-title="DOCUMENTARY" group-logo="https://aqfadtv.xyz/images/documentaries.png" tvg-logo="https://aqfadtv.xyz/logos/Crime&Investigaton.png" ch-number="714",Crime & Investigation
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2111
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+
 
 
 #########################################################################KIDS###################################################################################################
 
 
-#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://i.ibb.co/SKvN1BM/Anime-Unlimited-Logo-1200x.png" group-title="KIDS"  ,Anime Alldays
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=dd4b&deviceDNT=0&deviceModel=0
-
-
-
-#EXTINF:-1 tvg-id="611.astro" ch-number=" " tvg-name="Astro Ceria HD" group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
+#EXTINF:-1 tvg-id="611.astro" ch-number=" " tvg-name="Astro Ceria HD" group-title="KIDS" group-logo="https://iili.io/H7B4QYF.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-
-
-
-#EXTINF:-1 tvg-id="AstroTutorTVSMK.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SMK_v1.png" group-title="KIDS",Astro Tutor TV SMK
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-logo="https://aqfadtv.xyz/logos/Astro Tutor TV (2024).png" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/education.png" ch-number="603",Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5071
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" ch-number="618",618 Moonbug Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5071
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_ott.mpd
 
-
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" group-title="KIDS" tvg-logo="",620 CBeebies HD
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/Moonbug.png" ch-number="618",Moonbug
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5067
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 
+#EXTINF:-1 tvg-id="CBeebies" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CBeebies.png" ch-number="620",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5093/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 
+#EXTINF:-1 tvg-id="NickJr" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/NickJr2023.png" ch-number="617",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="KIDS"" group-logo="https://aqfadtv.xyz/images/kids.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png" ch-number="615",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/509
+https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1219,11 +972,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="DisneyChannelMENA.uk" tvg-name="" tvg-logo="https://i.ibb.co/W0m2Mm9/e9f9ec56fff1032b8beb3fb84ad3e8e5.png" group-title="KIDS",Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/2651
-
 
 #EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1231,42 +979,11 @@ http://yesimes.oknirvana.club:8880/JH12M3D196/fRV363z8kz/2651
 #http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
 #http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
 #https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="CHN" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS",ZooMoo Kids 
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name"Nickelodeon Junior" group-title="KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" ch-number="617",617 Nick Jr 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="CartoonNetwork" ch-number=" " tvg-name="Cartoon Network HD" group-title="KIDS" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png",615 Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
-
-#EXTINF:-1 tvg-id="612" ch-number=" " tvg-name="Dreamworks" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png" group-title="KIDS",612 Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3MvfBDrEPRi+Cz60Olgodg", "kid":"tb/jVU3yq803r+Ewp+HTEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_primary.mpd
   
-#EXTINF:-1 tvg-id="CBeebies" ch-number="620" tvg-name="CBeebies" group-title="KIDS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",620 CBeebies 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3mxf6q5faWO0s5LdyLaneA","kid":"UMaZxETl+A2sr8TJlmfYEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
-
-
-
 #EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-name="" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS",Disney JR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1274,10 +991,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 #http://iptvtree.net:8080/9RccM1lToK/XURfvfLBEB/1111
 #https://live-cdn.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ar.tvgratis.live/arkey/DisneyJr.json
-#EXTINF:-1 tvg-id="DisneyJuniorSouthAfrica.za" tvg-logo="https://i.ibb.co/yVKvfKb/1200px-Disney-Junior-svg.png" group-title="KIDS", Disney Junior
-https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
