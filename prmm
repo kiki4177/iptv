@@ -6,6 +6,7 @@
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/H7B4QYF.png" group-title="SPORTS",
 
+
 #EXTINF:-1 tvg-id="AstroArena" group-title="SPORTS" group-logo="https://iili.io/H7B4QYF.png" ch-number="801" tvg-logo="https://aqfadtv.xyz/logos/Astro Arena (2024).png",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2604
@@ -228,6 +229,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
 
 #############################################################################UNIFI##########################################################################################
 
