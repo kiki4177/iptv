@@ -230,6 +230,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="SPORTS",Man United TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/1102
+
 
 #############################################################################UNIFI##########################################################################################
 
