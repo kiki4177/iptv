@@ -121,12 +121,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/sooka/badminton
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5170/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-#EXTINF:-1 tvg-id="AstroBadminton" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="815" tvg-logo="https://aqfadtv.xyz/logos/Astro Badminton (2024).png",Astro Badminton
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5170/default_primary.mpd
-#https://75745dcc4e7f4b34a1a22e3a1c13642a.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/badminton_Production/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g3KLRwGavbs3qjbtXylRvQ","kid":"b/DgQNVE7D8CJDhlmQ8MEA"}],"type":"temporary"} 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/411QElVrjvRpuo_rAl5x4CgUsSX5oLELAFxwC-CdGm5KI=p3ja/dash-wv/jitp-linearwm/5170/default_ott.mpd
+  
+
 
 #EXTINF:-1 tvg-id="AstroBadminton2" group-title="SPORTS" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png",Astro Badminton 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
