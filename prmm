@@ -7,8 +7,6 @@
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/H7B4QYF.png" group-title="SPORTS",
 
 
-#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/H7B4QYF.png" group-title="SPORTS",
-
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
@@ -42,7 +40,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCNLDUlXN3ixmkfM5wKi4QVQ=-3B1/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCDHX_kW_yn-4p2i_2a-D17s=dCZr/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -50,8 +48,7 @@ https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCNLDUlXN3ixmkfM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxNjI4MDAsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.QwrrxSwySIf8U4toWG_JaxT91bhyslNw1QM2DtW72Lg
-
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIxLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.LnpLZi6YPN9u82Cv3ktpt4RuoGoxtvbaCQpyfAWJMM4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -66,7 +63,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Astro Arena Bola 2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPVzNQC0kh0R0QKpxpRIfCMkY=JT9B/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPVyW_9WfmaW5oPJF6xc4CITc=m0Mx/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Astro Arena Bola 2 ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -74,7 +71,7 @@ https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPVzNQC0kh0R0QKpx
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxNjI4MDEsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.yEp0E7WT_Ge3yMyvgW2MuASNrqGMKOLIYpnfGeVT7FU
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIxLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.txwbnILcTiXnz7TnMQemrwVVKH2mkQ0SD1KhaZ0J41s
 
 
 
@@ -92,7 +89,7 @@ https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fo8/rfxzC6PfyTL3xDDifQ", "kid":"W+Zqb4jv7j1uMPcqnFjjEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="SPORTS",810 Astro Grandstand FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41l6JGKtigPNMWcGkv83ObeBsNWoRyfylXBJNwnPz_pQs=085p/dash-wv/jitp-dashisowm/2701/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41l6JGKtigPNMWcGkv83ObeJq35tRayeSVk2Lv3ed2XbA=z9nM/dash-wv/jitp-dashisowm/2701/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="SPORTS",810 Astro Grandstand ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -100,17 +97,17 @@ https://linears2-playback.astro.com.my/vsg/41l6JGKtigPNMWcGkv83ObeBsNWoRyfylXBJN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=granstandfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxNjI4MDEsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.WbL8OG4Omb1JO2wQcHTSjjfLR5Q4CMB0tFnCCgFuqqM
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=granstandfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjEsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIxLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.1DgETiUClnbpX8G6P8Aa2aaeF3A-GzpUdriuRx6UOq4
 
 
 
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZLNhEIYQg0amn9pRu94MfBM=6C_V/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.dPyspebs24vhtxqL8mp2eizP_hVL_LXCJMG4XNLHYGM
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -118,7 +115,7 @@ https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZLNhEIYQg0amn9p
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxNjI4MDIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.sJt9n11Bw8NkjiCT_yDVdmKvzWeOyClaGXXOFnKd2LU
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.dPyspebs24vhtxqL8mp2eizP_hVL_LXCJMG4XNLHYGM
 
 
 
@@ -143,7 +140,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricketfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkxNjI4MDMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MjQ5MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiN2RhYjkxMzUtYTZlMy00NDM2LWFiN2UtMjcyMzEyYTc1ZmVlIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.IXFJO08rE5e4r1NtrryD5BNkcR-vOoj5v64IGK-LnrU
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=cricketfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIzLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.ie0dIU8xsHSERtdT-OWggXc7P3zjwZ0mrjjoYjlYT7Y
+
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="AstroSportsPlus" ch-number="817" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus FHD ((Backup))
+##EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIzLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.ie0dIU8xsHSERtdT-OWggXc7P3zjwZ0mrjjoYjlYT7Y"} 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=28bfcc9774644bda822c17a35660164c:620dba660d3e1f42acd6b077b4ca1dd8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sportplusfhd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDc1MjIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5Mjc2MzIyLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjA2MTg5NjItMjE1My00OTU0LWE1Y2ItODMxODFhZmMyMTg0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MSJ9.feJjFUazHUtS1ITH8ow6XBlI1BQ0a7vVRqbbetrZtII
 
 ########################## PREMIER LEAGUE 
 
