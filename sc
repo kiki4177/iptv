@@ -11,9 +11,9 @@ https://iili.io/H7B4QYF.png
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria FHD
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41h4X8SJqTvDRncLzYAJ86js40FvwI2VqiY3mWov2aq_8=7ecw/dash-wv/jitp-linearwm/1004/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41h4X8SJqTvDRncLzYAJ86jv0C43W1nfZON1LRhzt1xHg=Sa7r/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -22,7 +22,7 @@ https://linears2-playback.astro.com.my/vsg/41h4X8SJqTvDRncLzYAJ86js40FvwI2VqiY3m
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-https://linears2-playback.astro.com.my/vsg/4148G3BdHifXh4Kwio0PFYGphNciNJUpab6kN3uUa0WjU=4G_M/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/4148G3BdHifXh4Kwio0PFYGlQGm4X9E7Jy9U9KYypRW4w=qcGR/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -30,15 +30,21 @@ https://linears2-playback.astro.com.my/vsg/4148G3BdHifXh4Kwio0PFYGphNciNJUpab6kN
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41dCx4g7237jJV4egcykiPD4Tud95ViEWy6rB8DCZ075A=WQfc/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41dCx4g7237jJV4egcykiPD_soPJK29Wen-tHKLOGvzIo=QKkV/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
+
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD
+#https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
+
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra FHD
+#https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
 
 #EXTVLCOPT:http-user-agent=ottlayarkaca
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD
 #https://xlb1.layarkacatv.me/ottmy1/7Suu4386Cd/2.ts
 
-#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
+#EXTINF:-1 group-logo="https://i.ibb.co/k41FFxG/image.png"
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
@@ -47,11 +53,11 @@ https://linears2-playback.astro.com.my/vsg/41dCx4g7237jJV4egcykiPD4Tud95ViEWy6rB
 #https://l16.dp.sooka.my/1004/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDg1NTk2MDMsImlzcyI6IlZSIiwiZXhwIjoxNzQ4NjQ0MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWJjZTQ2ZTQtYzcwOS00MTFhLTkxYjYtNzM1ZjA3M2Y2NmZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.FmO1vpDPBcqZYK3xtyfeCpckNojOP45-HA6SA96JpAY"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA4OTI3MTQsImlzcyI6IlZSIiwiZXhwIjoxNzUwOTc3MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjE3MWU4OGItYmJkNi00ZGE3LWFhZWEtZmU1YmE1M2UwZjllIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.v20Cz2wiT2ahi9UagfTUcAwm_BUGWOSGrJFqsHQ0KLk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD Sooka
+#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://l18.dp.sooka.my/1000/linear/index.mpd
 
@@ -61,13 +67,13 @@ https://linears2-playback.astro.com.my/vsg/41dCx4g7237jJV4egcykiPD4Tud95ViEWy6rB
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://abeott.short.gy/RIA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjQsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.1W_ulz9VfdRJDyuf6OE5tSldpPeAxgQadOV3diKCkGg
+https://abeott.short.gy/RIA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDMsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.tcKUEZdN8-dStRKHLZ22a6K0J4gVFGGfHyDIgDaDMWc
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima FHD ((Backup))
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://abeott.short.gy/PRIMA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNzEsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.xOUKkXFyQeRWg-WXnrX6Z3EkQ8u9A8DYPJWlATtCoX8
+https://abeott.short.gy/PRIMA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMTAsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.rxOCCUYFHOpVK3sCMv64F_t3-2RYj5Ch5GzJF7EGstY
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -75,6 +81,8 @@ https://abeott.short.gy/PRIMA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #https://abeott.short.gy/CITRA
 
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
@@ -127,13 +135,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-##### SPORT SOOKA
+##### SPORT 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCJ7PHCczUu4b0GXHqhtzrFY=nkbZ/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCHyEBK0mgdxORdpzoAGIw8Y=xVBb/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -141,7 +149,7 @@ https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCJ7PHCczUu4b0GX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjYsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.m-zKz4mcTHuO8UDIyqo6UTs-uSMKc8lGVj09m61iqb0
+https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDUsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.TU_rHs56nn98RRKgQl0dMMQ-0Qh9Z9rATpu9TOqTnGo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTAyMTg2NTgsImlzcyI6IlZSIiwiZXhwIjoxNzUwMjg1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMjI2YjczZDYtNzJhYy00MTM4LThhYjktOTdhMjMwOGYzYzE0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.Ncn-fhX7law7xrYlulE1ihsRsqmffoCLnBu0u5Oo9ug"}
@@ -156,7 +164,7 @@ https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6I
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV88VaZ8jisWfYnmvrPm73RA=XqLz/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV5uCRlJAuwF4BUyHQyqk4nA=Sg1N/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -164,7 +172,7 @@ https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV88VaZ8jisWfYnm
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BOLA2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjYsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.Od6VM-Md4rv9y5jAwZNXkG-MCpg1vNCFLtmnjVZ-s_k
+https://abeott.short.gy/BOLA2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDUsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.TZnGqLVaee6vXQSbWbbjxkzQq_E0-tSHXLXzwF98aXM
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk2ODI4MTMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NzY3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWJjZTQ2ZTQtYzcwOS00MTFhLTkxYjYtNzM1ZjA3M2Y2NmZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.G9deBsU9wjv1CQ_DpycnW47g0YG1UymjIxlGN9Ei8ys"}
@@ -186,7 +194,7 @@ https://xlb1.layarkacatv.me/ottmy1/7Suu4386Cd/5.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjcsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.OITlFBu5J9nM13dqD-KtqDyTCDZCiDHZVnpd7ZXjKOE
+https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDYsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.lFowQwkZ-4ak6frn2rQZG9Vlc-viqZtSGEUNsYbyNVs
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -205,19 +213,13 @@ https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5
 
 
 
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",((Maintenance))
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.telcofix.me/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTQ3MDYzODIiLCJyZWZyZXNoX3Rva2VuIjoiNW1NM1VcLzgzTFhGczJkXC9ySkxPXC9FYWpPZDVFTDdFaDdkMDdja1Y0dlBDWlQrbzA1V1MyZHVJWUs0bmx1NjUzNUNXcXZvcU1YWldcLzhRQnc2UllsTW5IMFk3Q0lWUVY3eGs1NU1URUpMYmR5SHV1bFRBMm0xY2JkVDE4Rm56T1dnNHZRSVRRSm9nc1FOUnE1VFZIY3lKaVNZN2dJd1Q4a2VlWGlEcktWek9TMElFblkrcFA4XC9TcGMrVGV3ZVVHK1VOa2drdHFJU1cwcFdIQk1DKzRVNGJtMktjNVJwdEJsb2lqWHJON3pcL0ZjSWtaRGxkTHg3SzUzSG40SEpMZ09Md3YyVmxGdWFYdnBnQnFQZjdwK1B5akgrUmNvWlwvNU11dEZlbkptMmlFeVZxamZXeVIxZDNodDFRQ1ZHSEVCRFNTIn0=
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://ottmy.com/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMjgzNjc5MTAiLCJyZWZyZXNoX3Rva2VuIjoiRkFTZDljalwvRlA2TWZZbXhOSElOUUpWdWxwNFN1VlBzaERqY3JMcmRVWWYzWGNGZCs0MmJlQThRTnVaeFNGQkZhS2RVWG5LVEVZOUlWWWpFQkIxNW5mSnFvQUZhc1I5ZzNRUURVTDNhT21TUDZjN1NSZ2JnSHkybHE2azhCTFo3RlJkb0dncEt4eUZyREp2SmFNQUxQb0swT2pCcGxqRTFyVkNoN0JtekJUdnlkOUdiRXJWNXBlZXFEQXpXXC9DZU1CanpvK2lnVUdabStTMDhjNFFVT3FHT0xMQW1UZUx5MVwvUGhUdEFMWG1SdDEyRFYrYnJPSzBWZTg2N2ZBU3BpNWNqQ3RyTURmaHdmR0I1RG1MN2ZyQndIN2JSNk1JS2Q1RHNZajFvb0ZSeTQ4RllyTW9rVU1kcCtnRllhS2xtblZacndJZEZ1WHdQaFlJdW1QWlNUZ3VRPT0ifQ==
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://drm.telcofix.me/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTQ3MDYzODIiLCJyZWZyZXNoX3Rva2VuIjoiNW1NM1VcLzgzTFhGczJkXC9ySkxPXC9FYWpPZDVFTDdFaDdkMDdja1Y0dlBDWlQrbzA1V1MyZHVJWUs0bmx1NjUzNUNXcXZvcU1YWldcLzhRQnc2UllsTW5IMFk3Q0lWUVY3eGs1NU1URUpMYmR5SHV1bFRBMm0xY2JkVDE4Rm56T1dnNHZRSVRRSm9nc1FOUnE1VFZIY3lKaVNZN2dJd1Q4a2VlWGlEcktWek9TMElFblkrcFA4XC9TcGMrVGV3ZVVHK1VOa2drdHFJU1cwcFdIQk1DKzRVNGJtMktjNVJwdEJsb2lqWHJON3pcL0ZjSWtaRGxkTHg3SzUzSG40SEpMZ09Md3YyVmxGdWFYdnBnQnFQZjdwK1B5akgrUmNvWlwvNU11dEZlbkptMmlFeVZxamZXeVIxZDNodDFRQ1ZHSEVCRFNTIn0=
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://ottmy.com/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMjgzNjc5MTAiLCJyZWZyZXNoX3Rva2VuIjoiRkFTZDljalwvRlA2TWZZbXhOSElOUUpWdWxwNFN1VlBzaERqY3JMcmRVWWYzWGNGZCs0MmJlQThRTnVaeFNGQkZhS2RVWG5LVEVZOUlWWWpFQkIxNW5mSnFvQUZhc1I5ZzNRUURVTDNhT21TUDZjN1NSZ2JnSHkybHE2azhCTFo3RlJkb0dncEt4eUZyREp2SmFNQUxQb0swT2pCcGxqRTFyVkNoN0JtekJUdnlkOUdiRXJWNXBlZXFEQXpXXC9DZU1CanpvK2lnVUdabStTMDhjNFFVT3FHT0xMQW1UZUx5MVwvUGhUdEFMWG1SdDEyRFYrYnJPSzBWZTg2N2ZBU3BpNWNqQ3RyTURmaHdmR0I1RG1MN2ZyQndIN2JSNk1JS2Q1RHNZajFvb0ZSeTQ4RllyTW9rVU1kcCtnRllhS2xtblZacndJZEZ1WHdQaFlJdW1QWlNUZ3VRPT0ifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZA2ox_JgPe5pDTLlJMZ1Qjc=E5Sk/dash-wv/jitp-dashisowm/5170/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -225,7 +227,7 @@ http://ottmy.com/play.ts?ch=eyJ1c2VyX3Rva2VuIjoiMjgzNjc5MTAiLCJyZWZyZXNoX3Rva2Vu
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BADMINTON|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjcsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.UHeWSb1GR6-XHaNPnuuhaU7z7xsp2QoSHerp1nbwQ6w
+https://abeott.short.gy/BADMINTON|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDcsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.DPIR-E5IA6OtvwWHDe4_Hr-wFQBuBwr_z9q_Lvihla0
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -233,14 +235,6 @@ https://abeott.short.gy/BADMINTON|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5c
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk3NjkyMDIsImlzcyI6IlZSIiwiZXhwIjoxNzQ5ODUzODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWJjZTQ2ZTQtYzcwOS00MTFhLTkxYjYtNzM1ZjA3M2Y2NmZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.tZvbWs27oyUY3_iK6Yoo4VyPbCIm_MYMogThqImDS48"}
 #KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
 #https://l17.dp.sooka.my/5170/linear/index.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZCrnSK0CVyaVkyY4V1dMiAc=l8uf/dash-wv/jitp-dashisowm/5170/default_primary.mpd
 
 
 
@@ -266,7 +260,7 @@ https://linears2-playback.astro.com.my/vsg/41n1SEteFsfv0OLh6SdIG_GVAFhiB8ENtjicO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-https://abeott.short.gy/CRICKET|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA2NDgzNjgsImlzcyI6IlZSIiwiZXhwIjoxNzUwNzE3ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjA3NWE1N2ItZWNhNC00NTVmLWE0OGItZWNiZmJiNjI5YjQ3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.Il2KHplwhB2He_esJLEMTjyieqThC7CtXg_EPdzrsNU
+https://abeott.short.gy/CRICKET|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA5NzczMjYsImlzcyI6IlZSIiwiZXhwIjoxNzUxMDYzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjRlOWJkNjctOWU3OC00Y2YwLTlkZWUtOWE1OTU0YmU5ZjllIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.C6TERnKp5tgUZQaK4u028udyqlabcowG490grXe5zQo
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",832 Astro Cricket FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -295,7 +289,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_ott.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDczNzk0NDcsImlzcyI6IlZSIiwiZXhwIjoxNzQ3NDM0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTVhODhlNTItOTcyMi00YzkxLWExM2EtYjU2YzcyOTFjNWZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjAxIn0.X8_cR-MifeZKhw40zXzDKZ9lyaPR2N-nul4ncxhZ7EE"} #SOOKA
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q+/2qNqJajQFbzOeyVYgRQ","kid":"EJC+8ydbRdGIIAuCj+MFJw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key={"bb2dc3cfa3024039ae59b55e6b0b5de5":"03d25d6ceb16fc4e007697e9d2124fac","1090bef3275b45d188200b828fe30527":"43eff6a8da896a34056f339ec9562045"}
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",811 Astro Premier League FHD Sooka
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",811 Astro Premier League FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://l01.dp.sooka.my/601/linear/index.mpd
 
@@ -319,7 +313,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_ott.mpd
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDczNzk0NDgsImlzcyI6IlZSIiwiZXhwIjoxNzQ3NDM0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTVhODhlNTItOTcyMi00YzkxLWExM2EtYjU2YzcyOTFjNWZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjEwNCJ9.D7wEn6DXcm7uFg57bXUQBC7-zdSCb45Q3DQjTdEgZ8Q"} #SOOKA
 ##KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Q6yFOCiTGUgC8NNNv3EFng","kid":"TsrZra6PRPCxyL9cSS2mEw"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.license_key={"4ecad9adae8f44f0b1c8bf5c492da613":"43ac85382893194802f0d34dbf71059e","537a246e0284449a862dfd4dc43b7c79":"f3829c61a21ceae05ee5d5260679c210"}
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 FHD Sooka
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://l02.dp.sooka.my/2104/linear/index.mpd
 
