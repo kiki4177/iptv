@@ -6,6 +6,7 @@ https://iili.io/H7B4QYF.png
 ######################## 3 HOT CHANNEL SOOKA
 
 
+
 ########################################SPORTS###########################################
 
 #EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://iili.io/H7B4QYF.png" group-title="SPORTS",
@@ -31,7 +32,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCHyEBK0mgdxORdpzoAGIw8Y=xVBb/dash-wv/jitp-dashisowm/5099/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCKB9PdW-epwt1Zqh2Snl-gw=Oi19/dash-wv/jitp-dashisowm/5099/default_primary.mpd
 
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -39,7 +40,7 @@ https://linears2-playback.astro.com.my/vsg/41Ayajezhka9y_ktJOJ6kDCHyEBK0mgdxORdp
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDUsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.TU_rHs56nn98RRKgQl0dMMQ-0Qh9Z9rATpu9TOqTnGo
+https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0MjI5MDIsImlzcyI6IlZSIiwiZXhwIjoxNzUxNDk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOWYxN2I3YjItM2ExZS00MTNkLTlhZWEtMGQxMTBkYzQxYTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.pZtXqZkkV9zvj5t5bP2jlyPd1dY6rqxLm7RsKSHQENM
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTAyMTg2NTgsImlzcyI6IlZSIiwiZXhwIjoxNzUwMjg1ODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMjI2YjczZDYtNzJhYy00MTM4LThhYjktOTdhMjMwOGYzYzE0IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTA5OSJ9.Ncn-fhX7law7xrYlulE1ihsRsqmffoCLnBu0u5Oo9ug"}
@@ -54,7 +55,7 @@ https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6I
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV5uCRlJAuwF4BUyHQyqk4nA=Sg1N/dash-wv/jitp-linearwm/5100/default_primary.mpd
+https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV-2xoU8riRggGSgMCz5yS-g=AliZ/dash-wv/jitp-linearwm/5100/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -62,7 +63,7 @@ https://linears2-playback.astro.com.my/vsg/41ultA_eLJx9ef0n5mC9UPV5uCRlJAuwF4BUy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BOLA2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDUsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.TZnGqLVaee6vXQSbWbbjxkzQq_E0-tSHXLXzwF98aXM
+https://abeott.short.gy/BOLA2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0MjI5MDMsImlzcyI6IlZSIiwiZXhwIjoxNzUxNDk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOWYxN2I3YjItM2ExZS00MTNkLTlhZWEtMGQxMTBkYzQxYTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTEwMCJ9.BAniYY_utHGm8OArWHsQ-hbMv3TvNe2Y69C83uI8ZHc
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDk2ODI4MTMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NzY3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZWJjZTQ2ZTQtYzcwOS00MTFhLTkxYjYtNzM1ZjA3M2Y2NmZmIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.G9deBsU9wjv1CQ_DpycnW47g0YG1UymjIxlGN9Ei8ys"}
@@ -84,7 +85,7 @@ https://xlb1.layarkacatv.me/ottmy1/7Suu4386Cd/5.ts
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66c94fd8908c43ccb5e7b3dd58a990d2:d489da5a8496d00a04757d432816ab71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDYsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.lFowQwkZ-4ak6frn2rQZG9Vlc-viqZtSGEUNsYbyNVs
+https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0MjI5MDMsImlzcyI6IlZSIiwiZXhwIjoxNzUxNDk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOWYxN2I3YjItM2ExZS00MTNkLTlhZWEtMGQxMTBkYzQxYTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.N9N50qwyxa6R_Oony1JFYZnYnhM4-AfzX7Lhz1Y-Gxs
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -109,7 +110,7 @@ https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZA2ox_JgPe5pDTLlJMZ1Qjc=E5Sk/dash-wv/jitp-dashisowm/5170/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZE6UMQ4y3yzOLiouFJCKZWI=5ooC/dash-wv/jitp-dashisowm/5170/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -117,7 +118,7 @@ https://linears2-playback.astro.com.my/vsg/41ENDUqd3YT6AmUBgCCayHZA2ox_JgPe5pDTL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bca05447d354cb4913a66e125fb75ef:45253aa554c444961fb6a4432abb6b1c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://abeott.short.gy/BADMINTON|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTExNTEyMDcsImlzcyI6IlZSIiwiZXhwIjoxNzUxMjM2MjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMmMwM2FiYjEtZGI3Yy00NDJlLWEyZWUtYTY4ZmQ0ZTIyZjhjIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.DPIR-E5IA6OtvwWHDe4_Hr-wFQBuBwr_z9q_Lvihla0
+https://abeott.short.gy/BADMINTON|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0MjI5MDQsImlzcyI6IlZSIiwiZXhwIjoxNzUxNDk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOWYxN2I3YjItM2ExZS00MTNkLTlhZWEtMGQxMTBkYzQxYTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.mcOVzEloUTRCnqUtt9u653VD8skmbTWltu_yhaFgv8o
 
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -150,7 +151,7 @@ https://linears2-playback.astro.com.my/vsg/41n1SEteFsfv0OLh6SdIG_GVAFhiB8ENtjicO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ffd1e696f9ab454c8d10d9c880c360e9:00b22ca27f39679d2add6e405f1804d0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-https://abeott.short.gy/CRICKET|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTA5NzczMjYsImlzcyI6IlZSIiwiZXhwIjoxNzUxMDYzNDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjRlOWJkNjctOWU3OC00Y2YwLTlkZWUtOWE1OTU0YmU5ZjllIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.C6TERnKp5tgUZQaK4u028udyqlabcowG490grXe5zQo
+https://abeott.short.gy/CRICKET|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTE0MjI5MDUsImlzcyI6IlZSIiwiZXhwIjoxNzUxNDk1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOWYxN2I3YjItM2ExZS00MTNkLTlhZWEtMGQxMTBkYzQxYTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjUwNCJ9.CbUt4BgLWxKxGoopNc2m5CggiCfYFMnpv7kY5MfZn4U
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",832 Astro Cricket FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -243,17 +244,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 ##### DAZN SPORTS
 
 #EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 1 
-http://tooontv.com:8080/live/ere3444h/agape/188510.m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-caching=3000
+http://tooontv.com:999/live/ere3444h/agape/188510.m3u
 
 #EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 2 
-#http://tooontv.com:8080/live/ere3444h/agape/188511.m3u
-
-#EXTINF:-1 tvg-id="dazn2.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 3
-#https://esx1new.newkso.ru/esx1/primadazn3pt/mono.m3u8
-
-#EXTINF:-1 tvg-id="dazn1.es" tvg-logo="https://i.ibb.co/JjjCjpp/Dazn-logo.png" group-title="Sports", Dazn 1 
-https://nijineh-lalajo.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00MjYvbW9uby5tM3U4.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-caching=3000
+#http://tooontv.com:999/live/ere3444h/agape/188511.m3u
 
 ##### TNT SPORTS
 
