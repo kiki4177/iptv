@@ -13,7 +13,7 @@ https://iili.io/H7B4QYF.png
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7graoHx2vTQEhN5Zib_0G8A=1vEw/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7pToAXMuKbtbCrx-xnNM_kI=muIv/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -53,7 +53,7 @@ https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.co
 
 
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria ((Backup))
-https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/01bd0faef5a87be6d8c549f95053935ce202fc4f/AstroRia.m3u8
+#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/01bd0faef5a87be6d8c549f95053935ce202fc4f/AstroRia.m3u8
 
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria ((Backup 2))
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -71,7 +71,7 @@ https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/01bd0faef5a8
 #https://get.perfecttv.net/720ria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riachd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup))
-https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroPrima.m3u8
+#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroPrima.m3u8
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria|Prima|Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup 2))
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -82,7 +82,7 @@ https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/m
 #https://get.perfecttv.net/720prima.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primachd
 
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria|Prima|Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
-https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroCitra.m3u8
+#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroCitra.m3u8
 
 
 
