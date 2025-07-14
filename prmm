@@ -8,7 +8,7 @@ https://iili.io/H7B4QYF.png
 ######################## 3 HOT CHANNEL SOOKA
 
 
-##28961
+##28996
 #EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -16,10 +16,10 @@ https://iili.io/H7B4QYF.png
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7kNlcw3_63FJDmdm-vmpQZQ=r8f2/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7nmTPVBj-W8kGdfnohJxpyY=sD-U/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 
-##28971
+##29005
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -27,101 +27,44 @@ https://linears2-playback.astro.com.my/vsg/419yhGdvUZX3pvxffCya5W7kNlcw3_63FJDmd
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima HD
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
-https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41htiA982EsvsiRc7E0Sy_u6yjMdlbm_Unw5QOtt8_Eog=O_vz/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=9ee6cb55-8b4c-4986-827d-3f6475ada195
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41htiA982EsvsiRc7E0Sy_u6tpPUVK1wOokznKGxPDYKo=IdNT/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=2e10878f-dcea-4110-b56a-48f99649bb0a
 
 
-
-##29031
+##29063
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria | Prima | Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/410r4jfnnWVbJD_fsZYjP484JO0hTlLIUdaC3OXgFUalk=6M71/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=3dd84cb2-587e-4246-b892-b9ccecee44f5
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/410r4jfnnWVbJD_fsZYjP486eaylep_TRCz9I8MTGiRc0=IezZ/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=7935961d-9fbc-44dc-8c4b-9c132aed5f28
 
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co/k41FFxG/image.png"
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxOTU2ODgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMjczMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2I2YWNhNjEtNTkxMi00MWVjLWJkNDItOTI0YzBlZjA1NTM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.126irXhWoILPk_4kdlB-DY3IH7DVuzAPF5cOy-gGXu8"}
-#KODIPROP:inputstream.adaptive.license_key={"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3","d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0"}
-#https://l16.dp.sooka.my/1004/linear/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxOTU2OTUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMjczMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2I2YWNhNjEtNTkxMi00MWVjLWJkNDItOTI0YzBlZjA1NTM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.J7cCKshdlz48qFtClbCe9F7Yw4HqAb28Kot2n7LDUuc"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://l18.dp.sooka.my/1000/linear/index.mpd
-
-
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria ((Backup))
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c15541e4dde34c48a0d144a4b0ab7194:ce82e3d81126183e5a262e320f6348b3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#https://abeott.short.gy/RIA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxOTU2ODgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMjczMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2I2YWNhNjEtNTkxMi00MWVjLWJkNDItOTI0YzBlZjA1NTM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.126irXhWoILPk_4kdlB-DY3IH7DVuzAPF5cOy-gGXu8
-https://get.perfecttv.net/1080ria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd
-
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup))
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=6613bc303647468c974c3c839d5201e9:5422811c83996a25f51229219b41c410
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#https://abeott.short.gy/PRIMA|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxOTU2OTUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMjczMDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiM2I2YWNhNjEtNTkxMi00MWVjLWJkNDItOTI0YzBlZjA1NTM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwMCJ9.J7cCKshdlz48qFtClbCe9F7Yw4HqAb28Kot2n7LDUuc
-https://get.perfecttv.net/1080prima.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd
-
-
-
-#EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria ((Backup))
-#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/01bd0faef5a87be6d8c549f95053935ce202fc4f/AstroRia.m3u8
-
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup))
-#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroPrima.m3u8
-
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria | Prima | Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
-#https://raw.githubusercontent.com/UncleDonaldTrump93/ott-Navigator-/refs/heads/main/AstroCitra.m3u8
-
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria | Prima | Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#https://abeott.short.gy/CITRA
-
-#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria | Prima | Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2700/default_ott.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDczNzk0NDYsImlzcyI6IlZSIiwiZXhwIjoxNzQ3NDM0NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiOTVhODhlNTItOTcyMi00YzkxLWExM2EtYjU2YzcyOTFjNWZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.IVt34Vge1txcfAfRrXSSR79fEZZ5XHzGTSqqiBu2tI0"} #SOOKA
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTI0NzA5NzYsImlzcyI6IlZSIiwiZXhwIjoxNzUyNTMyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWJkZjBjMzUtZDZlYS00YmM0LWI0YmItZDVlNmVmZTFjZjQzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTAwNCJ9.Z8YXfY19KQe9zl2QwVG9Lh60VK629o8-kar51w8_63M"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c15541e4dde34c48a0d144a4b0ab7194":"ce82e3d81126183e5a262e320f6348b3","d5249cb40505495494828f42c37087cb":"d59f6a7bed00bd5348355ab5b3ee6aa0"}
 #EXTINF:-1 group-logo="" tvg-id="104.astro" tvg-name="RIA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png" ch-number="104",104 Astro Ria ((Backup))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-#https://l16.dp.sooka.my/1004/linear/index.mpd
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/???? ??? ?? ??.NDQ3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+https://l16.dp.sooka.my/1004/linear/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup))
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1000/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
+https://de6b41ae66ed4b67a4d6f522bcbda8dd.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH2-dash/vsg/41htiA982EsvsiRc7E0Sy_u6yjMdlbm_Unw5QOtt8_Eog=O_vz/dash-wv/jitp-dashisowm/1000/default_ott.mpd?aws.sessionId=a77ad410-7e6b-4746-942e-442cb6f944a2
 
-#EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Ria | Prima | Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png" ch-number="105",105 Astro Prima ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; DV9110 Build/ST; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDcxNzU4MjcsImlzcyI6IlZSIiwiZXhwIjoxNzQ3MjYxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMzZlZGMxODctNDM2Mi00ZmI5LWIwNmQtZWZkZWY0Yzk1MTM4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.0RS5sWKfRTh0mGjp1Pukzu78IRNdISD6EzO-YxN6k84"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"21759e73f142452aa01acc6d08a86e50":"fc9eaf659647c675315f65747c2553da","6613bc303647468c974c3c839d5201e9":"5422811c83996a25f51229219b41c410"}
-#https://l18.dp.sooka.my/1000/linear/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="Ria | Prima | Citra" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png" ch-number="108",108 Astro Citra ((Backup))
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0)
+https://5a30e597573846ffb4d14c961da73e57.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH5-dash/vsg/410r4jfnnWVbJD_fsZYjP484JO0hTlLIUdaC3OXgFUalk=6M71/dash-wv/jitp-dashisowm/2700/default_ott.mpd?aws.sessionId=c1d278d2-72c8-461e-83c2-383bb4cac53d
 
 
 ########################################SPORTS###########################################
@@ -145,12 +88,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 ##### SPORT 
 
-##37522
+##37554
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=499a8f368064b11cc092b7b013db0710:e151bb81468a8426d6ab12860d314aa3
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41GJ_NhzYp2GugK0osBZrt4M2cOExV0CFa_Em8Fyoiqhc=INoK/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=9ebe18fb-64c6-46bb-b269-b3be065d7359
+https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH24-dash/vsg/41GJ_NhzYp2GugK0osBZrt4If_iyZi956iO79grLpZ1sQ=jch_/dash-wv/jitp-dashisowm/5099/default_ott.mpd?aws.sessionId=df6957bb-cc01-436f-b4ca-a500da3285a9
 
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola HD ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -168,12 +111,12 @@ https://abeott.short.gy/BOLA1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6I
 #https://l01.dp.sooka.my/5099/linear/index.mpd
 
 
-##37529
+##37561
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62a7b7917aad5123cd4df65c561c7010:b1effa9e51cf38b3ae676bc264937efb
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41AZ2N9BHPajfdDzZ2SS6qLn6e2Jy54esX2MarxJyJaMk=DspI/dash-wv/jitp-linearwm/5100/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41AZ2N9BHPajfdDzZ2SS6qLjNrTT26RQYnC-MuhvFdp6U=wlaI/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -203,12 +146,16 @@ https://abeott.short.gy/BOLA2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://linears2-playback.astro.com.my/vsg/41l6JGKtigPNMWcGkv83ObeB_3mh8xANNfi61A7SJ8lqg=jQvq/dash-wv/jitp-dashisowm/2701/default_primary.mpd
 
-##37603
+##37652
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="Sports",810 Astro Grandstand HD
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"66c94fd8908c43ccb5e7b3dd58a990d2":"d489da5a8496d00a04757d432816ab71","505aefcda9084f83bc5c6cc53f0ef9c6":"f89898184ed921e225cd89f4d2ea1035"}
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="Sports",810 Astro Grandstand HD
 #EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xperia 5 Build/???? ??? ?? ??.NDQ3NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYmE1MzU4YmItNWFmMy00ZmQ3LWFjNTYtOTJjYzYyZWU1MmZhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.gxDM062SMVsppxHR3qN14BpDeSsTGp1tU2nxC7cPBok; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
-https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxMTMxMDIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMTg2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY1OWM1MzYtNzA4ZC00MzU5LWE0NGMtODllNzU5YmU1M2Y1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.ULcAa7iW3c5sTmDCkHde-Hm-fw349aztmQFe2FZdNS0
+#https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTI0NzEwMjksImlzcyI6IlZSIiwiZXhwIjoxNzUyNTMyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWJkZjBjMzUtZDZlYS00YmM0LWI0YmItZDVlNmVmZTFjZjQzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.wzsF0pE5AZYHkMT-kPQRFUIkvw3khUKEhEE4etbz8k4
 
 #EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro SuperSport 3 HD" ch-number="810" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="Sports",810 Astro Grandstand ((Backup))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -219,12 +166,12 @@ https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIU
 https://abeott.short.gy/GRANDSTAND|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU4OTcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjcwMSJ9.JSthV46Hw-tGRNI8-9WRd5K0ksC2iMw2M8FG6r4tvUc
 
 
-##37626
+##37677
 #EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIxMTMyMjksImlzcyI6IlZSIiwiZXhwIjoxNzUyMTg2NjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNmY1OWM1MzYtNzA4ZC00MzU5LWE0NGMtODllNzU5YmU1M2Y1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.QmBSjqVtQt3rx8nOhYBu_UeKooBDoYGFLJbd7q_PlCc"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTI0NzEwNTgsImlzcyI6IlZSIiwiZXhwIjoxNzUyNTMyMjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWJkZjBjMzUtZDZlYS00YmM0LWI0YmItZDVlNmVmZTFjZjQzIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTE3MCJ9.PuK3Py6TGxgX6qOcViSuL5y0uBuS8Y4aqcgnsZ9gL4g"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
