@@ -3,8 +3,8 @@ name: Sync IPTV Playlists
 on:
   push:
     paths:
-      - JSS
-      - Kiki
+      - '**/JSS'
+      - '**/Kiki'
   workflow_dispatch:
 
 jobs:
@@ -21,22 +21,22 @@ jobs:
           
           echo ""
           echo "🔍 Check kalau JSS ada berubah:"
-          if grep -q "JSS" changed.txt; then
+          if grep -q "JSS$" changed.txt; then
             echo "✅ JSS berubah, salin ke file merah lain..."
-            cp JSS JSTORE-PRIMETV
-            cp JSS prmm
-            cp JSS sc
+            cp iptv/JSS iptv/JSTORE-PRIMETV
+            cp iptv/JSS iptv/prmm
+            cp iptv/JSS iptv/sc
           else
             echo "❌ JSS tak berubah atau tak dijumpai"
           fi
 
           echo ""
           echo "🔍 Check kalau Kiki ada berubah:"
-          if grep -q "Kiki" changed.txt; then
+          if grep -q "Kiki$" changed.txt; then
             echo "✅ Kiki berubah, salin ke file hijau lain..."
-            cp Kiki NS
-            cp Kiki basic
-            cp Kiki w
+            cp iptv/Kiki iptv/NS
+            cp iptv/Kiki iptv/basic
+            cp iptv/Kiki iptv/w
           else
             echo "❌ Kiki tak berubah atau tak dijumpai"
           fi
