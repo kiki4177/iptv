@@ -14,20 +14,31 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Copy Files Based on Master Update
+      - name: Debug & Copy Files Based on Master Update
         run: |
-          # Sync merah kalau JSS berubah
-          if git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -q "JSS"; then
+          echo "✅ Senarai file yang berubah:"
+          git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | tee changed.txt
+          
+          echo ""
+          echo "🔍 Check kalau JSS ada berubah:"
+          if grep -q "JSS" changed.txt; then
+            echo "✅ JSS berubah, salin ke file merah lain..."
             cp JSS JSTORE-PRIMETV
             cp JSS prmm
             cp JSS sc
+          else
+            echo "❌ JSS tak berubah atau tak dijumpai"
           fi
 
-          # Sync hijau kalau Kiki berubah
-          if git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -q "Kiki"; then
+          echo ""
+          echo "🔍 Check kalau Kiki ada berubah:"
+          if grep -q "Kiki" changed.txt; then
+            echo "✅ Kiki berubah, salin ke file hijau lain..."
             cp Kiki NS
             cp Kiki basic
             cp Kiki w
+          else
+            echo "❌ Kiki tak berubah atau tak dijumpai"
           fi
 
       - name: Commit and Push Changes
