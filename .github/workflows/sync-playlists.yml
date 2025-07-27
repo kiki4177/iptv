@@ -1,0 +1,39 @@
+name: Sync IPTV Playlists
+
+on:
+  push:
+    paths:
+      - JSS
+      - Kiki
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Copy Files Based on Master Update
+        run: |
+          # Sync merah kalau JSS berubah
+          if git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -q "JSS"; then
+            cp JSS JSTORE-PRIMETV
+            cp JSS prmm
+            cp JSS sc
+          fi
+
+          # Sync hijau kalau Kiki berubah
+          if git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep -q "Kiki"; then
+            cp Kiki NS
+            cp Kiki basic
+            cp Kiki w
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Auto sync from master playlist(s)" || echo "No changes"
+          git push
