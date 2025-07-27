@@ -1,48 +1,33 @@
-name: Sync IPTV Playlists
+name: 📺 Auto Sync Playlist
 
 on:
   push:
-    paths:
-      - 'JSS'
-      - 'Kiki'
-  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: 🔽 Checkout repo
         uses: actions/checkout@v3
 
-      - name: Sync Playlists
+      - name: 🔁 Sync playlist
         run: |
-          echo "📝 File yang berubah:"
-          FILES=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})
-          echo "$FILES"
+          echo "🔁 Auto salin JSS ke semua file merah"
+          cp JSS JSTORE-PRIMETV || echo "Fail salin JSS -> JSTORE-PRIMETV gagal"
+          cp JSS prmm || echo "Fail salin JSS -> prmm gagal"
+          cp JSS sc || echo "Fail salin JSS -> sc gagal"
 
-          if echo "$FILES" | grep -q "^JSS$"; then
-            echo "🔁 JSS berubah — salin ke file merah"
-            cp JSS JSTORE-PRIMETV
-            cp JSS prmm
-            cp JSS sc
-          fi
+          echo "🔁 Auto salin Kiki ke semua file hijau"
+          cp Kiki NS || echo "Fail salin Kiki -> NS gagal"
+          cp Kiki basic || echo "Fail salin Kiki -> basic gagal"
+          cp Kiki w || echo "Fail salin Kiki -> w gagal"
 
-          if echo "$FILES" | grep -q "^Kiki$"; then
-            echo "🔁 Kiki berubah — salin ke file hijau"
-            cp Kiki NS
-            cp Kiki basic
-            cp Kiki w
-          fi
-
-   - name: ✅ Sync playlist
-  run: |
-    echo "🔁 Auto salin JSS ke semua file merah"
-    cp JSS JSTORE-PRIMETV
-    cp JSS prmm
-    cp JSS sc
-
-    echo "🔁 Auto salin Kiki ke semua file hijau"
-    cp Kiki NS
-    cp Kiki basic
-    cp Kiki w
-
+      - name: 💾 Commit dan Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "🔁 Sync fail auto ikut JSS dan Kiki" || echo "Tiada perubahan untuk commit"
+          git push
