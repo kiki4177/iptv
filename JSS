@@ -1,7 +1,7 @@
 #EXTM3U billed-msg="1 ID 1 DEVICE | SUBSCRIPTION : PREMIUM"
 ##########################################################################################################################
 
-# Test update untuk GitHub Actions
+# TEST GITHUB 1
 
 https://iili.io/H7B4QYF.png
 
