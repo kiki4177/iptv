@@ -3,8 +3,8 @@ name: Sync IPTV Playlists
 on:
   push:
     paths:
-      - '**/JSS'
-      - '**/Kiki'
+      - 'iptv/JSS'
+      - 'iptv/Kiki'
   workflow_dispatch:
 
 jobs:
@@ -14,37 +14,29 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Debug & Copy Files Based on Master Update
+      - name: Sync Playlists
         run: |
-          echo "✅ Senarai file yang berubah:"
-          git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | tee changed.txt
-          
-          echo ""
-          echo "🔍 Check kalau JSS ada berubah:"
-          if grep -q "JSS$" changed.txt; then
-            echo "✅ JSS berubah, salin ke file merah lain..."
+          echo "Files changed:"
+          git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
+
+          if grep -q "iptv/JSS" <<< "$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})"; then
+            echo "Syncing JSS to merah group..."
             cp iptv/JSS iptv/JSTORE-PRIMETV
             cp iptv/JSS iptv/prmm
             cp iptv/JSS iptv/sc
-          else
-            echo "❌ JSS tak berubah atau tak dijumpai"
           fi
 
-          echo ""
-          echo "🔍 Check kalau Kiki ada berubah:"
-          if grep -q "Kiki$" changed.txt; then
-            echo "✅ Kiki berubah, salin ke file hijau lain..."
+          if grep -q "iptv/Kiki" <<< "$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }})"; then
+            echo "Syncing Kiki to hijau group..."
             cp iptv/Kiki iptv/NS
             cp iptv/Kiki iptv/basic
             cp iptv/Kiki iptv/w
-          else
-            echo "❌ Kiki tak berubah atau tak dijumpai"
           fi
 
-      - name: Commit and Push Changes
+      - name: Commit and Push
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add .
-          git commit -m "Auto sync from master playlist(s)" || echo "No changes"
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add iptv/*
+          git commit -m "Auto sync playlists" || echo "No changes to commit"
           git push
