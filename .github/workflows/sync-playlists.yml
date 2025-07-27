@@ -34,10 +34,15 @@ jobs:
             cp Kiki w
           fi
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add .
-          git commit -m "Auto sync from master playlist(s)" || echo "❗ Tiada perubahan untuk commit"
-          git push
+   - name: ✅ Sync playlist
+  run: |
+    echo "🔁 Auto salin JSS ke semua file merah"
+    cp JSS JSTORE-PRIMETV
+    cp JSS prmm
+    cp JSS sc
+
+    echo "🔁 Auto salin Kiki ke semua file hijau"
+    cp Kiki NS
+    cp Kiki basic
+    cp Kiki w
+
