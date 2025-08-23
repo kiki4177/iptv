@@ -1223,7 +1223,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
 group-logo="https://iili.io/H7B4QYF.png"
 
 ##1641
-#EXTINF:-1 group-logo="https://i.ibb.co/k41FFxG/image.png"
+#EXTINF:-1 group-logo="https://iili.io/H7B4QYF.png"
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/k2YzxRLm/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
