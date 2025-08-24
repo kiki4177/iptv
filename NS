@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="1 ID 1 DEVICE
+#EXTM3U billed-msg="1 ID 1 DEVICE"
 ##########################################################################################################################
 
 test99999
@@ -6,7 +6,6 @@ test99999
 https://iili.io/H7B4QYF.png
 
 ######################## 3 HOT CHANNEL SOOKA
-
 
 
 ##################### SPORTS CHANNEL 
@@ -51,6 +50,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://l01.dp.sooka.my/5099/linear/index.mpd
 
+
 #EXTINF:-1 group-logo="https://i.ibb.co/k41FFxG/image.png"
 #EXTINF:-1 tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="SPORTS" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Astro Arena Bola HD
 #EXTVLCOPT:http-user-agent=PerfectTV/3.2.0 (Android; Mobile)
@@ -75,13 +75,19 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 #https://l02.dp.sooka.my/5100/linear/index.mpd
 
-#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 HD
-#EXTVLCOPT:http-user-agent=PerfectTV/3.2.0 (Android; Mobile)
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 HD ((Maintenance))
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Astro Arena Bola 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f166a88a7f1b40bba2e399bf2f972365:abf14067e089861730f4c6ff24b52dba
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
 
 
@@ -196,7 +202,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro SuperSport HD" ch-number="811" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="Sports",811 Astro Premier League HD
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTVLCOPT:http-user-agent=PerfectTV/3.2.0 (Android; Mobile)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -222,7 +228,7 @@ https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png",812 Astro Premier League 2 HD
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTVLCOPT:http-user-agent=PerfectTV/3.2.0 (Android; Mobile)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
